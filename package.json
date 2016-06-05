@@ -1,8 +1,8 @@
 {
-  "name": "asteroid-oauth-mixin",
+  "name": "asteroid-oauth-facebook",
   "version": "1.0.14",
   "description": "Login with OAuth in asteroid",
-  "main": "dist/asteroid-oauth-mixin.js",
+  "main": "src/asteroid-oauth-mixin.js",
   "scripts": {
     "prepublish": "gulp build",
     "build": "gulp build",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mondora/asteroid-oauth-mixin.git"
+    "url": "https://github.com/ouedraog/asteroid-oauth-mixin.git"
   },
   "keywords": [
     "ddp",
