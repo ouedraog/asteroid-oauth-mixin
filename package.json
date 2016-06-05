@@ -1,5 +1,5 @@
 {
-  "name": "asteroid-oauth-mixin",
+  "name": "asteroid-oauth-facebook",
   "version": "1.0.14",
   "description": "Login with OAuth in asteroid",
   "main": "src/asteroid-oauth-mixin.js",
